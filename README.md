@@ -22,9 +22,11 @@ vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.157.234.98:443?encryption=none&s
 
 vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@gb-s3.kintuso.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=gb-s3.kintuso.com&alpn=http/1.1,h2&fp=firefox&allowInsecure=0&echfq=none#🇪🇺 LTE АНТИГЛУШИЛКА 1?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
 
-vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@194.55.239.196:443?type=grpc&mode=gun&serviceName=&security=reality&fp=random&sni=tickets.widget.kinopoisk.ru&pbk=4tHVVwVTzn6IDg76_4jOwhp-UGTRNZCeU1aUEiyCESg#🇪🇺 LTE АНТИГЛУШИЛКА 2?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@gb-s3.kintuso.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=gb-s3.kintuso.com&alpn=http/1.1,h2&fp=firefox&allowInsecure=0&echfq=none#🇪🇺 LTE АНТИГЛУШИЛКА 2?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
 
-vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@194.55.239.198:443?type=grpc&mode=gun&serviceName=&security=reality&fp=random&sni=cargo.rzd.ru&pbk=tXAJOGLB8jKYsGz_BZfqB01S1y6jd7UyimBAlukVSVw#🇪🇺 LTE АНТИГЛУШИЛКА 3?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
+
+vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@gb-s3.kintuso.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=gb-s3.kintuso.com&alpn=http/1.1,h2&fp=firefox&allowInsecure=0&echfq=none#🇪🇺 LTE АНТИГЛУШИЛКА 3?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
+
 
 vless://d7902cac-f33b-4716-b38f-aeaecb1a3d1c@static.kintuso.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=static.kintuso.com&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇪🇺 LTE АНТИГЛУШИЛКА 4?serverDescription=0LrQvtCz0LTQsCDRgdCy0Y/Qt9GMINC30LDQs9C70YPRiNC10L3QsA==
 
