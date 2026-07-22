@@ -1,8 +1,8 @@
-#subscription-userinfo: upload=001; download=0; total=0; expire=1830297600
+#subscription-userinfo: upload=0; download=0; total=0; expire=1830297600
 #profile-title:🌍 𝟎𝟏𝟗 𝐕𝐏𝐍 
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce: Если VPN не работает обновите подписку 🔄, после ⏱️ и выберите сервер с наименьшим показателем ms!(мс)
+#announce: Для стабильной работы обновите подписку
 #support-url: https://wa.me/79699999092
 #profile-web-page-url: https://wa.me/79699999092
 #sort-order: ping
