@@ -1,5 +1,5 @@
-#subscription-userinfo: upload=001; download=0; total=0; expire=999999999999999
-#profile-title: 019 VPN
+#subscription-userinfo: upload=001; download=0; total=0; expire=1830297600
+#profile-title: 011 VPN💸
 #profile-update-interval: 1
 #subscription-update-interval: 1
 #announce: Если VPN не работает обновите подписку 🔄, после ⏱️ и выберите сервер с наименьшим показателем ms!(мс)
