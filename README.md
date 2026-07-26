@@ -2,6 +2,9 @@
 #profile-title:🌍 𝟎𝟏𝟗 𝐕𝐏𝐍 
 #profile-update-interval: 1
 #subscription-update-interval: 1
+
+device_limit=1
+
 #announce: Для стабильной работы обновите подписку
 #support-url: https://wa.me/79699999092
 #profile-web-page-url: https://wa.me/79699999092
