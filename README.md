@@ -1,9 +1,9 @@
-#subscription-userinfo: upload=0; download=0; total=0; expire=1830297600
+#subscription-userinfo: upload=0001; download=0; total=0; expire=1815696000; device_limit=1
 #profile-title:🌍 𝟎𝟏𝟗 𝐕𝐏𝐍 
 #profile-update-interval: 1
 #subscription-update-interval: 1
 
-device_limit=0
+
 
 #announce: Для стабильной работы обновите подписку
 #support-url: https://wa.me/79699999092
