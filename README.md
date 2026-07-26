@@ -3,7 +3,7 @@
 #profile-update-interval: 1
 #subscription-update-interval: 1
 
-device_limit=1
+device_limit=0
 
 #announce: Для стабильной работы обновите подписку
 #support-url: https://wa.me/79699999092
