@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=0001; download=0; total=0; expire=1815696000; device_limit=1
-#profile-title:🌍 maga 017 𝐕𝐏𝐍 
+#profile-title:🌍 меня МАГА зовут 
 #profile-update-interval: 1
 #subscription-update-interval: 1
 
